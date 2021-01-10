@@ -1,0 +1,67 @@
+C:\Users\Marko\source\repos\NRT6017\NRT6017\bin\Debug\NRT6017.exe.config
+C:\Users\Marko\source\repos\NRT6017\NRT6017\bin\Debug\NRT6017.exe
+C:\Users\Marko\source\repos\NRT6017\NRT6017\bin\Debug\NRT6017.pdb
+C:\Users\Marko\source\repos\NRT6017\NRT6017\obj\Debug\NRT6017.csprojAssemblyReference.cache
+C:\Users\Marko\source\repos\NRT6017\NRT6017\obj\Debug\NRT6017.frmPrijava.resources
+C:\Users\Marko\source\repos\NRT6017\NRT6017\obj\Debug\NRT6017.Properties.Resources.resources
+C:\Users\Marko\source\repos\NRT6017\NRT6017\obj\Debug\NRT6017.csproj.GenerateResource.cache
+C:\Users\Marko\source\repos\NRT6017\NRT6017\obj\Debug\NRT6017.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\NRT6017\NRT6017\obj\Debug\NRT6017.exe
+C:\Users\Marko\source\repos\NRT6017\NRT6017\obj\Debug\NRT6017.pdb
+C:\Users\Marko\source\repos\NRT6017\NRT6017\obj\Debug\NRT6017.frmRegistracija.resources
+C:\Users\Marko\source\repos\NRT6017\NRT6017\obj\Debug\NRT6017.frmAdministracija.resources
+C:\Users\Marko\Desktop\NRT6017\NRT6017\obj\Debug\NRT6017.csprojAssemblyReference.cache
+C:\Users\Marko\Desktop\NRT6017\NRT6017\obj\Debug\NRT6017.frmAdministracija.resources
+C:\Users\Marko\Desktop\NRT6017\NRT6017\obj\Debug\NRT6017.frmPrijava.resources
+C:\Users\Marko\Desktop\NRT6017\NRT6017\obj\Debug\NRT6017.Properties.Resources.resources
+C:\Users\Marko\Desktop\NRT6017\NRT6017\obj\Debug\NRT6017.frmRegistracija.resources
+C:\Users\Marko\Desktop\NRT6017\NRT6017\obj\Debug\NRT6017.csproj.GenerateResource.cache
+C:\Users\Marko\Desktop\NRT6017\NRT6017\obj\Debug\NRT6017.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\NRT6017\NRT6017\obj\Debug\NRT6017.exe
+C:\Users\Marko\Desktop\NRT6017\NRT6017\obj\Debug\NRT6017.pdb
+C:\Users\Marko\Desktop\NRT6017\NRT6017\bin\Debug\NRT6017.exe.config
+C:\Users\Marko\Desktop\NRT6017\NRT6017\bin\Debug\NRT6017.exe
+C:\Users\Marko\Desktop\NRT6017\NRT6017\bin\Debug\NRT6017.pdb
+C:\Users\Marko\Desktop\NRT6017\NRT6017\obj\Debug\NRT6017.frmKupac.resources
+C:\Users\Marko\Desktop\NRT6017\NRT6017\obj\Debug\NRT6017.frmRezervacija.resources
+C:\Users\Marko\Desktop\TVP\P1\NRT6017\NRT6017\bin\Debug\NRT6017.exe.config
+C:\Users\Marko\Desktop\TVP\P1\NRT6017\NRT6017\bin\Debug\NRT6017.exe
+C:\Users\Marko\Desktop\TVP\P1\NRT6017\NRT6017\bin\Debug\NRT6017.pdb
+C:\Users\Marko\Desktop\TVP\P1\NRT6017\NRT6017\obj\Debug\NRT6017.csprojAssemblyReference.cache
+C:\Users\Marko\Desktop\TVP\P1\NRT6017\NRT6017\obj\Debug\NRT6017.frmAdministracija.resources
+C:\Users\Marko\Desktop\TVP\P1\NRT6017\NRT6017\obj\Debug\NRT6017.frmKupac.resources
+C:\Users\Marko\Desktop\TVP\P1\NRT6017\NRT6017\obj\Debug\NRT6017.frmRezervacija.resources
+C:\Users\Marko\Desktop\TVP\P1\NRT6017\NRT6017\obj\Debug\NRT6017.frmPrijava.resources
+C:\Users\Marko\Desktop\TVP\P1\NRT6017\NRT6017\obj\Debug\NRT6017.Properties.Resources.resources
+C:\Users\Marko\Desktop\TVP\P1\NRT6017\NRT6017\obj\Debug\NRT6017.frmRegistracija.resources
+C:\Users\Marko\Desktop\TVP\P1\NRT6017\NRT6017\obj\Debug\NRT6017.csproj.GenerateResource.cache
+C:\Users\Marko\Desktop\TVP\P1\NRT6017\NRT6017\obj\Debug\NRT6017.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\TVP\P1\NRT6017\NRT6017\obj\Debug\NRT6017.exe
+C:\Users\Marko\Desktop\TVP\P1\NRT6017\NRT6017\obj\Debug\NRT6017.pdb
+C:\Users\marki\Desktop\SKOLA\VISER\4. semestar\Projekti\TVP\P1\NRT6017\NRT6017\obj\Debug\NRT6017.exe
+C:\Users\marki\Desktop\SKOLA\VISER\4. semestar\Projekti\TVP\P1\NRT6017\NRT6017\obj\Debug\NRT6017.pdb
+C:\Users\marki\Desktop\SKOLA\VISER\4. semestar\Projekti\TVP\P1\NRT6017\NRT6017\bin\Debug\NRT6017.exe.config
+C:\Users\marki\Desktop\SKOLA\VISER\4. semestar\Projekti\TVP\P1\NRT6017\NRT6017\bin\Debug\NRT6017.exe
+C:\Users\marki\Desktop\SKOLA\VISER\4. semestar\Projekti\TVP\P1\NRT6017\NRT6017\bin\Debug\NRT6017.pdb
+C:\Users\marki\Desktop\SKOLA\VISER\4. semestar\Projekti\TVP\P1\NRT6017\NRT6017\obj\Debug\NRT6017.csprojAssemblyReference.cache
+C:\Users\marki\Desktop\SKOLA\VISER\4. semestar\Projekti\TVP\P1\NRT6017\NRT6017\obj\Debug\NRT6017.frmAdministracija.resources
+C:\Users\marki\Desktop\SKOLA\VISER\4. semestar\Projekti\TVP\P1\NRT6017\NRT6017\obj\Debug\NRT6017.frmKupac.resources
+C:\Users\marki\Desktop\SKOLA\VISER\4. semestar\Projekti\TVP\P1\NRT6017\NRT6017\obj\Debug\NRT6017.frmRezervacija.resources
+C:\Users\marki\Desktop\SKOLA\VISER\4. semestar\Projekti\TVP\P1\NRT6017\NRT6017\obj\Debug\NRT6017.frmPrijava.resources
+C:\Users\marki\Desktop\SKOLA\VISER\4. semestar\Projekti\TVP\P1\NRT6017\NRT6017\obj\Debug\NRT6017.Properties.Resources.resources
+C:\Users\marki\Desktop\SKOLA\VISER\4. semestar\Projekti\TVP\P1\NRT6017\NRT6017\obj\Debug\NRT6017.frmRegistracija.resources
+C:\Users\marki\Desktop\SKOLA\VISER\4. semestar\Projekti\TVP\P1\NRT6017\NRT6017\obj\Debug\NRT6017.csproj.GenerateResource.cache
+D:\SKOLA\VISER\4. semestar\Projekti\TVP\P1\NRT6017\NRT6017\bin\Debug\NRT6017.exe.config
+D:\SKOLA\VISER\4. semestar\Projekti\TVP\P1\NRT6017\NRT6017\bin\Debug\NRT6017.exe
+D:\SKOLA\VISER\4. semestar\Projekti\TVP\P1\NRT6017\NRT6017\bin\Debug\NRT6017.pdb
+D:\SKOLA\VISER\4. semestar\Projekti\TVP\P1\NRT6017\NRT6017\obj\Debug\NRT6017.csprojAssemblyReference.cache
+D:\SKOLA\VISER\4. semestar\Projekti\TVP\P1\NRT6017\NRT6017\obj\Debug\NRT6017.frmAdministracija.resources
+D:\SKOLA\VISER\4. semestar\Projekti\TVP\P1\NRT6017\NRT6017\obj\Debug\NRT6017.frmKupac.resources
+D:\SKOLA\VISER\4. semestar\Projekti\TVP\P1\NRT6017\NRT6017\obj\Debug\NRT6017.frmRezervacija.resources
+D:\SKOLA\VISER\4. semestar\Projekti\TVP\P1\NRT6017\NRT6017\obj\Debug\NRT6017.frmPrijava.resources
+D:\SKOLA\VISER\4. semestar\Projekti\TVP\P1\NRT6017\NRT6017\obj\Debug\NRT6017.Properties.Resources.resources
+D:\SKOLA\VISER\4. semestar\Projekti\TVP\P1\NRT6017\NRT6017\obj\Debug\NRT6017.frmRegistracija.resources
+D:\SKOLA\VISER\4. semestar\Projekti\TVP\P1\NRT6017\NRT6017\obj\Debug\NRT6017.csproj.GenerateResource.cache
+D:\SKOLA\VISER\4. semestar\Projekti\TVP\P1\NRT6017\NRT6017\obj\Debug\NRT6017.csproj.CoreCompileInputs.cache
+D:\SKOLA\VISER\4. semestar\Projekti\TVP\P1\NRT6017\NRT6017\obj\Debug\NRT6017.exe
+D:\SKOLA\VISER\4. semestar\Projekti\TVP\P1\NRT6017\NRT6017\obj\Debug\NRT6017.pdb
